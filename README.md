@@ -1,18 +1,18 @@
 # Ice Creamology
-### Описание
-Благодаря этому проекту можно будет заказать мороженое в разные города.
-### Технологии
+### Description
+With this project, we'll make it possible to order ice cream in different cities.
+### Technologies
 Python 3.7
 Django 2.2.19
-### Запуск проекта dev-режиме
-- Создайте и активируйте виртуальное окружение
-- Установите зависимости из файла requirements.txt
+### Run the project in dev mode
+- Create a virtual environment and activate it
+- Install the dependencies from the requirements.txt file
 ```
 pip install -r requirements.txt
 ``` 
-- В папке с файлом manage.py выполните команду:
+- In the folder with the manage.py file, run the command:
 ```
 python3 manage.py runserver
 ```
-### Авторы
+### Authors
 Me, Myself and I
